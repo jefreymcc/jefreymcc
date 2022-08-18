@@ -6,7 +6,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Ola Jefrey" height="30" width="40" src="https://www.internetmatters.org/wp-content/uploads/2020/01/insta-logo-whie-background-600x314.png">
+  <img align="center" alt="Ola Jefrey" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSquc08I5rYx0leFa-FOtZ0sEj2FnPVWvRXgA&usqp=CAU">
  </div>
 <div align="center" style="display: inline_block"><br> 
    <a href="<endereço do insta>" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
